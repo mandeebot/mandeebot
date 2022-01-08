@@ -6,9 +6,9 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on being the best Data Scientist out there :neckbeard:
-- 🌱 I’m currently learning ML and Deep Learning
+- 🌱 I’m currently learning Machine and Deep Learning
 - 👯 I’m looking to collaborate on NLP projects
 - 🤔 I’m looking for help with NLP gigs, and oppurtunities to get much needed expertise and experience while getting paid at it:pray:
 - 💬 Ask me about ...Data Science, Machine Learning
-- 📫 How to reach me: follow me 
+- 📫 How to reach me: follow me on twitter @ https://twitter.com/MandiengBot, i follow back.. :bowtie: 
 - ⚡ Fun fact: i have a degree in Psychology, and yes i can read your mind :smiling_imp:
