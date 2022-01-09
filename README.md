@@ -1,17 +1,3 @@
-<!--### Hi there 👋
-
-
-**mandeebot/mandeebot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:>
-
-- 🔭 I’m currently working on being the best Data Scientist out there :neckbeard:
-- 🌱 I’m currently learning Machine and Deep Learning
-- 👯 I’m looking to collaborate on NLP projects
-- 🤔 I’m looking for help with NLP gigs, and oppurtunities to get much needed expertise and experience while getting paid at it:pray:
-- 💬 Ask me about ...Data Science, Machine Learning
--->
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Am+Bot+Mandieng+Peter.;Nice+to+meet+you!&center=true&size=30">
@@ -80,21 +66,21 @@ As an ML Developer, a Digital Skills Trainer and a Data Science Enthusiast, am P
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=mandeebot&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-<!--
+<
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/mandeebot/mandeebot" title="FemToken"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mandeebot&repo=FemToken&theme=react&border_color=61dafb&border_radius=10">
+  <a align="left" href="https://github.com/mandeebot/mandeebot" title="Machine Learning for Predictive Maintenance"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mandeebot&repo=Predictive-Maintainance&theme=react&border_color=61dafb&border_radius=10">
   </a>
-  <a align="right" href="https://github.com/mandeebot/mandeebot/Today-In-History-Clean-Architechture-TDD-App" title="Today In History Flutter App"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mandeebot&repo=Today-In-History-Clean-Architechture-TDD-App&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/mandeebot/mandeebot/mandeebot" title="Applying Random Forest Classifier"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mandeebot&repo=RandomForestClassification&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/mandeebot/FollowStack" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mandeebot&repo=FollowStack&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/IMEF-FEMI/React-Paypal-Checkout" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mandeebot&repo=React-Paypal-Checkout&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/mandeebot/mandeebot" title="Hackathon-Submition"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mandeebot&repo=Starter_Note-on-DSN-AI-Bootcamp-Hackathon&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/mandeebot/mandeebot" title="Predicting Diamond Prices using Machine Learning "><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mandeebot&repo=DiamondsPrediction&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
   <a href="https://github.com/mandeebot?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4-->
+</h4>
