@@ -11,7 +11,7 @@
 </h5>
 <br>
 <p align="center">
-As an ML Developer, a Digital Skills Trainer and a Data Science Enthusiast, am Passionate about using My Experiences, Research, Technology and Data in finding Relevant, Sustainable, Data-Backed and impact-full solutions to Problems am faced with  <br>
+As an ML Developer, a Digital Skills Trainer and a Machine Learning Eng., am Passionate about using My Experiences, Research, Technology and Data in finding Relevant, Sustainable, Data-Backed and impact-full solutions to Problems am faced with  <br>
   <br>
     💻 I’m currently working on contribruting more to open source, learning and being best Data Scientist out there 🔭 
 
@@ -25,9 +25,8 @@ As an ML Developer, a Digital Skills Trainer and a Data Science Enthusiast, am P
   <br>
   📫 How to reach me: <a href="mailto: bmandieng@gmail.com">bmandieng@gmail.com</a>
   <br>
-  👯 I’m looking to collaborate on NLP projects
   <br>
-  🤔 I’m looking for NLP gigs, and oppurtunities to get much needed expertise and experience while getting paid at it:pray:
+    I’m looking for NLP gigs, and oppurtunities to get much needed expertise and experience while getting paid at it:pray:
 
 </p>
 
