@@ -5,7 +5,7 @@
 </h1>
 <h5 align="center">
   <code>
-    <a href="https://https://www.linkedin.com/in/bot-mandieng/" title="LinkedIn Profile"><img width="22" src="https://user-images.githubusercontent.com/48575430/148750341-385ea19c-a5a1-4654-8da9-09db85f3c53e.png"> LinkedIn</a></code>
+    <a href=(https://www.linkedin.com/in/mandiengbot)" title="LinkedIn Profile"><img width="22" src="https://user-images.githubusercontent.com/48575430/148750341-385ea19c-a5a1-4654-8da9-09db85f3c53e.png"> LinkedIn</a></code>
   <code><a href="https://twitter.com/MandiengBot" title="Twitter Page"><img width="24" src="https://user-images.githubusercontent.com/48575430/148750914-0521dbc6-5943-4316-9ddb-2229add12611.png"> Twitter</a></code>
   <code><a href="https://mandieng.medium.com/" title="Medium Profile"><img width="22" src="https://user-images.githubusercontent.com/48575430/148751338-a25da6a9-6cde-4728-9b80-6145f9b15494.png"> Medium</a></code>
 </h5>
